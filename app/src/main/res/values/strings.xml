@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Resource Examples</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello [YOUR NAME]</string>
     <string name="action_settings">Settings</string>
 
 </resources>

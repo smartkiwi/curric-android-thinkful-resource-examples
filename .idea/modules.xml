@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ResourceExamples.iml" filepath="$PROJECT_DIR$/ResourceExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curric-android-thinkful-resource-examples.iml" filepath="$PROJECT_DIR$/curric-android-thinkful-resource-examples.iml" />
     </modules>
   </component>
 </project>
-
